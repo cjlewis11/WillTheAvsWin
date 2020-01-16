@@ -3,7 +3,8 @@ A Side project that pulls in data about the Avalanche and then predicts if they 
 
 I am not affiliated in any official capacity with the Avalanche or the NHL. This is purely a project for fun.
 
-=============Setting up VirtualEnv====================
+=============Setting up VirtualEnv====================  
+
 This project will require many packages that are not installed on the system you're using. To setup a virtual enviorment for the application do the following in a unix based or ubuntu system(terminal if using the windows subsytem)
 
 Use the following commands:
