@@ -1,4 +1,4 @@
-certifi==2019.11.28
+certifi==2022.12.7
 numpy==1.18.1
 pandas==0.25.3
 pycurl==7.43.0.4
